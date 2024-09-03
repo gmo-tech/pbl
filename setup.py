@@ -16,7 +16,7 @@ setup(
     name='python-backlog',
     version=version,
     install_requires=[
-        'requests~=2.31.0',
+        'requests~=2.32.2',
     ],
     description='Backlog API v2 wrapper',
     long_description=long_description,
